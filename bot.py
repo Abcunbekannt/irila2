@@ -3,6 +3,7 @@ import discord
 from datetime import datetime
 import asyncio
 import os
+bot = discord.Client()
 
 
 
